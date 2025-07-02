@@ -2,7 +2,7 @@ HTML and CSS learning project
 # 🪑 Chairs Landing Page
 
 A modern, responsive landing page for a chair brand or furniture store, built using only **HTML** and **CSS**. This project is designed as a front-end showcase for elegant UI design, smooth layout, and visually appealing product presentation.
-Live Preview:
+Live Preview: https://student-uettaxila.github.io/chairs_landing_page/
 ---
 
 ## 🔍 Overview
